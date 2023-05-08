@@ -1,0 +1,234 @@
+{
+    "欢迎来到我的小屋": {
+        "en": "Welcome to my cabin",
+        "$file": [
+            "views/demo.vue"
+        ]
+    },
+    "关闭其他": {
+        "en": "Close Other",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "关闭右侧所有": {
+        "en": "Close all on the right side",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "关闭左侧所有": {
+        "en": "Close all on the left side",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "关闭全部": {
+        "en": "Close All",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "展开": {
+        "en": "open",
+        "$file": [
+            "views/demo/feature/multi-line-text-expand.vue"
+        ]
+    },
+    "收起": {
+        "en": "Pack up",
+        "$file": [
+            "views/demo/feature/multi-line-text-expand.vue"
+        ]
+    },
+    "你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好": {
+        "en": "Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello",
+        "$file": [
+            "views/demo/feature/multi-line-text-expand.vue"
+        ]
+    },
+    "未读": {
+        "en": "Unread",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "我是未读消息": {
+        "en": "I am an unread message",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "已读": {
+        "en": "Read",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "已读消息": {
+        "en": "Read Message",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "五老星": {
+        "en": "Gorosei ",
+        "$file": [
+            "layouts/default/app-header/user.vue"
+        ]
+    },
+    "个人中心": {
+        "en": "Personal Center",
+        "$file": [
+            "layouts/default/app-header/user.vue"
+        ]
+    },
+    "退出登陆": {
+        "en": "Exit login",
+        "$file": [
+            "layouts/default/app-header/user.vue"
+        ]
+    },
+    "首页": {
+        "en": "home page",
+        "$file": [
+            "store/nav.ts",
+            "routes/home.ts"
+        ]
+    },
+    "实用案例": {
+        "en": "Practical Cases",
+        "$file": [
+            "store/nav.ts"
+        ]
+    },
+    "布局": {
+        "en": "layout",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "均分列": {
+        "en": "Evenly divided column",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "响应式均分列": {
+        "en": "Responsive even splitting",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "两列不均分": {
+        "en": "Uneven division between two columns",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "响应式两列不均分": {
+        "en": "Responsive Two Columns Unequally Divided",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "外框搭建-1": {
+        "en": "Frame construction -1",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "外框搭建-2": {
+        "en": "Frame construction -2",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "瀑布流": {
+        "en": "Waterfall flow",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "小功能": {
+        "en": "Small functions",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "标签省略": {
+        "en": "Label omission",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "多行文本展开缩起": {
+        "en": "Expand and collapse multiple lines of text",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "页面条件查询": {
+        "en": "Page Condition Query",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "卡劵": {
+        "en": "Coupons",
+        "$file": [
+            "store/nav.ts"
+        ]
+    },
+    "滑动粘性": {
+        "en": "Sliding viscosity",
+        "$file": [
+            "store/nav.ts"
+        ]
+    },
+    "滑动联动": {
+        "en": "Sliding linkage",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "文本省略": {
+        "en": "Text omission",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "瀑布流上拉加载": {
+        "en": "Waterfall flow pull-up loading",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "卡券": {
+        "en": "Card coupon",
+        "$file": [
+            "routes/demo.ts"
+        ]
+    },
+    "滑动黏性": {
+        "en": "Sliding viscosity",
+        "$file": [
+            "routes/demo.ts"
+        ]
+    }
+}

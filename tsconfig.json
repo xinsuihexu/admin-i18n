@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "lib": ["ESNext", "DOM"],
+    "skipLibCheck": true,
+    "noEmit": true,
+    "paths": {
+      "@/*": ["src/*"],
+    },
+    "types": ["element-plus/global", "node", "unplugin-vue-macros/macros-global"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue", "src/lib/i18n/scan.js", "lib/i18n/translate.js", "lib/i18n/scan.js", "lib/i18n/scan.js"],
+  "references": [{ "path": "./tsconfig.node.json" }],
+  "vueCompilerOptions": {
+    "plugins": [
+      // "@vue-macros/volar/define-options",
+      "@vue-macros/volar/define-model",
+      "@vue-macros/volar/short-vmodel",
+      "@vue-macros/volar/define-props",
+      "@vue-macros/volar/define-slots",
+    ]
+    // ...
+  }
+}

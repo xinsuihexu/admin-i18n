@@ -1,0 +1,234 @@
+{
+    "欢迎来到我的小屋": {
+        "en": "欢迎来到我的小屋",
+        "$file": [
+            "views/demo.vue"
+        ]
+    },
+    "关闭其他": {
+        "en": "关闭其他",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "关闭右侧所有": {
+        "en": "关闭右侧所有",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "关闭左侧所有": {
+        "en": "关闭左侧所有",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "关闭全部": {
+        "en": "关闭全部",
+        "$file": [
+            "layouts/default/app-tab.vue"
+        ]
+    },
+    "展开": {
+        "en": "展开",
+        "$file": [
+            "views/demo/feature/multi-line-text-expand.vue"
+        ]
+    },
+    "收起": {
+        "en": "收起",
+        "$file": [
+            "views/demo/feature/multi-line-text-expand.vue"
+        ]
+    },
+    "你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好": {
+        "en": "你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好 你好",
+        "$file": [
+            "views/demo/feature/multi-line-text-expand.vue"
+        ]
+    },
+    "未读": {
+        "en": "未读",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "我是未读消息": {
+        "en": "我是未读消息",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "已读": {
+        "en": "已读",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "已读消息": {
+        "en": "已读消息",
+        "$file": [
+            "layouts/default/app-header/news.vue"
+        ]
+    },
+    "五老星": {
+        "en": "五老星",
+        "$file": [
+            "layouts/default/app-header/user.vue"
+        ]
+    },
+    "个人中心": {
+        "en": "个人中心",
+        "$file": [
+            "layouts/default/app-header/user.vue"
+        ]
+    },
+    "退出登陆": {
+        "en": "退出登陆",
+        "$file": [
+            "layouts/default/app-header/user.vue"
+        ]
+    },
+    "首页": {
+        "en": "首页",
+        "$file": [
+            "store/nav.ts",
+            "routes/home.ts"
+        ]
+    },
+    "实用案例": {
+        "en": "实用案例",
+        "$file": [
+            "store/nav.ts"
+        ]
+    },
+    "布局": {
+        "en": "布局",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "均分列": {
+        "en": "均分列",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "响应式均分列": {
+        "en": "响应式均分列",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "两列不均分": {
+        "en": "两列不均分",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "响应式两列不均分": {
+        "en": "响应式两列不均分",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "外框搭建-1": {
+        "en": "外框搭建-1",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "外框搭建-2": {
+        "en": "外框搭建-2",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "瀑布流": {
+        "en": "瀑布流",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "小功能": {
+        "en": "小功能",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "标签省略": {
+        "en": "标签省略",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "多行文本展开缩起": {
+        "en": "多行文本展开缩起",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "页面条件查询": {
+        "en": "页面条件查询",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "卡劵": {
+        "en": "卡劵",
+        "$file": [
+            "store/nav.ts"
+        ]
+    },
+    "滑动粘性": {
+        "en": "滑动粘性",
+        "$file": [
+            "store/nav.ts"
+        ]
+    },
+    "滑动联动": {
+        "en": "滑动联动",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "文本省略": {
+        "en": "文本省略",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "瀑布流上拉加载": {
+        "en": "瀑布流上拉加载",
+        "$file": [
+            "store/nav.ts",
+            "routes/demo.ts"
+        ]
+    },
+    "卡券": {
+        "en": "卡券",
+        "$file": [
+            "routes/demo.ts"
+        ]
+    },
+    "滑动黏性": {
+        "en": "滑动黏性",
+        "$file": [
+            "routes/demo.ts"
+        ]
+    }
+}

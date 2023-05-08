@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 4,
+  "editor.formatOnSave": false,
+  "csscomb.formatOnSave": true,
+  "csscomb.preset": "yandex",
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+  },
+  "vetur.validation.template": false,
+  "vetur.validation.script": false,
+  "vetur.validation.style": false,
+  "indentRainbow.indicatorStyle": "light",
+  "unocss.root": "src/",
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}

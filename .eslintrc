@@ -1,0 +1,27 @@
+{
+  "extends": "@antfu",
+  "rules": {
+      "indent": [2, 4],
+      "@typescript-eslint/indent": ["error", 4],
+      "no-console": "off",
+      "vue/html-indent": ["error", 4],
+      "vue/max-attributes-per-line": [
+          "error", 
+          {
+            "singleline": {
+              "max": 1
+            },      
+            "multiline": {
+              "max": 1
+            }
+          }
+      ],
+      "vue/component-name-in-template-casing": ["error", "PascalCase", {
+          "registeredComponentsOnly": false,
+          "ignores": []
+      }],
+      "vue/block-tag-newline": ["error", {
+        "maxEmptyLines": 1
+      }]
+  }
+}
