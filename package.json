@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "i18n:init": "voerkai18n init",
     "i18n:scan": "voerkai18n extract",
-    "i18n:translate": "voerkai18n translate --appkey _HdQOWFb5Qn5gYoQhTRv --appid 20230116001532221",
+    "i18n:translate": "voerkai18n translate --appkey 'yourself app key' --appid 'yourself app id'",
     "i18n:compile": "voerkai18n compile"
   },
   "dependencies": {
